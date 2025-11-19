@@ -34,5 +34,6 @@ To write a Python program that:
 Add Code Here
 
 ## Output
+<img width="734" height="220" alt="image" src="https://github.com/user-attachments/assets/a7801d0c-0559-43f2-a54b-e757f86910b3" />
 
 ## Result
